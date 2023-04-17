@@ -1,6 +1,6 @@
 ---
 title: "Intro to GIS / Mapping Visualization in R"
-author: "Aaron Kessler"
+author: "Rachel Garton"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
