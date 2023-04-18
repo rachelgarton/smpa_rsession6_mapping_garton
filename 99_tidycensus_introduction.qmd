@@ -87,7 +87,7 @@ First step to using it is loading your API Key credential. You thankfully only h
 
 # uncomment to run, then recomment it out so you don't run it every time
 
-# census_api_key("APIKEYCODE", install=TRUE)
+# census_api_key("2a6f8c21a30d3024e038d67d7d4eba647dc79cd4", install=TRUE)
 
 
 ```
